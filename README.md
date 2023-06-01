@@ -75,7 +75,7 @@ This repository contains Python scripts for training and testing a Convolutional
 
 ## Results
 
-The final trained model achieves an accuracy of 99.29%% on the MNIST test set.
+The final trained model achieves an accuracy of 99.29% on the MNIST test set.
 
 ## Contributing
 
